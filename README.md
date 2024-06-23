@@ -2,7 +2,9 @@
 # Creating NetflixApp clone just for demo purpose along with ChatGPT
 # create-react-app
 # configured tailwindcss in our app
-# configure firebase for authentication
+# configure firebase for 
+# configure BrowserRoute for routing
+# Built Header
 
 # Features
 - login/signup
